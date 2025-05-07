@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@rplankenhorn"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/rplankenhorn/homeassistant-kegbot",
+  "domain": "homeassistant-kegbot",
+  "iot_class": "local_polling",
+  "name": "Kegbot",
+  "requirements": [],
+  "version": "1.0.0"
+}

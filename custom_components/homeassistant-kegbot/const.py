@@ -1,0 +1,1 @@
+DOMAIN = "homeassistant-kegbot"
