@@ -1,0 +1,10 @@
+{
+  "domain": "kegbot",
+  "name": "Kegbot",
+  "documentation": "https://github.com/rplankenhorn/homeassistant-kegbot",
+  "issue_tracker": "https://github.com/rplankenhorn/homeassistant-kegbot/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@rplankenhorn"],
+  "requirements": []
+}
